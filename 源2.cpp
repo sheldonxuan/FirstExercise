@@ -1,11 +1,10 @@
 #include<iostream>
 using namespace std;
 
-
-int main()
-{
 	double *a = NULL, *b=NULL ,*c= NULL;
 	int n1,n2,n3,i1,i2,i3;
+int main()
+{
 
 	cout << "n1=";
 	cin >> n1;
