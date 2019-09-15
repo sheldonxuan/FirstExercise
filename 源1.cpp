@@ -2,10 +2,11 @@
 using namespace std;
 
 void bubble(int*&, int*&, int);
+int n;
+int *p = NULL, *q = NULL;
 int main()
 {
-	int n;
-	int *p = NULL, *q = NULL;
+
 
 	cout << "请输入数据个数";
 	cin >> n;
